@@ -57,6 +57,13 @@ Veuillez regrouper tous vos fichiers yaml de déploiement (et ou commande lancé
 Pousser le repository en ligne (github, gitlab etc).
 Et m'envoyer le lien sur slack (cela peut être fait en debut d'examen, je regarderai la dernière version poussée)
 
+## Bonus
+
+Ci-joint un frontend React pour notre application : https://github.com/arthurescriou/redis-react.
+
+Suivez l'instruction pour build le projet et déployez la sur le cluster.
+(Pensez à configurer l'URL du backend par défaut localhost:5400)
+
 ## Commandes utiles
 
 Visualiser les ressources déployées
