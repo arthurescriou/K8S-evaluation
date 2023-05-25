@@ -12,7 +12,7 @@ Vous allez utiliser un cluster distant, il ne faut donc pas utiliser de commande
 
 ## Tâches
 
-Pour chacun de vos déploiements, pods, services (ou autres), veuillez ajouter votre nom (ou un identifiant que vous m'envoyez par slack) pour permettre d'identifier votre travail.
+Pour chacun de vos déploiements, pods, services (ou autres), veuillez ajouter votre nom (ou un identifiant que vous m'envoyez par mail/slack) pour permettre d'identifier votre travail.
 
 C'est également important pour les `labels selector` pour éviter les collisions entre le travail de deux élèves.
 (un service qui cible des pods de deux personnes).
