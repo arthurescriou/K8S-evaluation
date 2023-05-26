@@ -57,7 +57,7 @@ Veuillez regrouper tous vos fichiers yaml de déploiement (et ou commande lancé
 Pousser le repository en ligne (github, gitlab etc).
 Et m'envoyer le lien sur slack (cela peut être fait en debut d'examen, je regarderai la dernière version poussée)
 
-## Bonus
+## Front end
 
 Ci-joint un frontend React pour notre application : https://github.com/arthurescriou/redis-react.
 
